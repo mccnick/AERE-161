@@ -1,0 +1,1 @@
+deg2rad = input('Please enter degree value: ');
